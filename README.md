@@ -8,3 +8,6 @@
 #So the plan is to build a scraper that runs through all my product on Grailed and extract the selected data into the CSV file, and repeat, pretty straightforward.
 
 #This program is also implemented by python and major packages like Selenium web driver for automation and Pandas for data transformation. 
+
+
+<img width="1323" alt="截屏2022-10-09 下午1 41 50" src="https://user-images.githubusercontent.com/105625141/194774015-cb0956d6-3639-47f1-832b-e5a7fb347c7b.png">
